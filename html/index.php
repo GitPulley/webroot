@@ -33,6 +33,11 @@
 <p>Pulley manages a collection of websites on your server, each linked to a source repository on GitHub. From the Pulley dashboard, the latest version of each site can go live in one click. Administrators can easily create separate "development" and "release" websites from two branches of the same source repository. Finally, Pulley provides easy access to the server error log, and version control for the MySQL database in each website.</p>
 
 <p>Pulley significantly simplifies the web development pipeline by making it easy to test and release websites. Keep an eye out for the public distribution!</p>
+
+<p><h4><strong>Where can I see it in action?</strong></h4></p>
+
+<p>Pully is currently managing this domain and this site! You can go to the <a href="https://github.com/GitPulley/webroot/tree/gitpulley">webroot repository</a> and see the code of this domain. Sadly, we cannot give you access to the Pulley administration panel right now due to security reasons. We will soon have an interactive sandboxed demo to play with.</p>
+
     </div>
     </div>
     <?php include 'assets/footer.html'?>

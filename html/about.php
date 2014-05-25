@@ -32,7 +32,7 @@
       <div class="panel panel-default">
         <div class="panel-body">
           <h3>Developers</h3>
-          <p><b>Jasmine Ang</b> &mdash; Artistic and Design Lead - Sser experience lead</p>
+          <p><b>Jasmine Ang</b> &mdash; Artistic and Design Lead - User experience lead</p>
           <p><b>Ian Goegebuer</b> &mdash; Webmaster/back end developer - Full stack developer - Marketing lead</p>
           <p><b>Christopher Hall</b> &mdash; Front end developer - Full stack developer - Music lead</p>
           <p><b>Johnny Patterson</b> &mdash; Coder - Full stack developer</p>
