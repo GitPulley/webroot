@@ -24,11 +24,11 @@
       <h1>Welcome to Pulley</h1>
 <div class="panel panel-default">
         <div class="panel-body">
-<p><strong>What is Pulley?</strong></p>
+<p><h4><strong>What is Pulley?</strong></h4></p>
 
 <p>Pushing code to a live server is a cumbersome process, especially when changes happen often. At a hackathon at UCLA, Ian wrote a script that allowed changes to be rapidly deployed on the live server. This weekend, we turned his simple script into a full-blown server version control panel, useful for any small-scale web project. Welcome to Pulley.</p>
 
-<p><strong>How does it work?</strong></p>
+<p><h4><strong>How does it work?</strong></h4></p>
 
 <p>Pulley manages a collection of websites on your server, each linked to a source repository on GitHub. From the Pulley dashboard, the latest version of each site can go live in one click. Administrators can easily create separate "development" and "release" websites from two branches of the same source repository. Finally, Pulley provides easy access to the server error log, and version control for the MySQL database in each website.</p>
 
