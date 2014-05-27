@@ -26,7 +26,7 @@
         <div class="panel-body">
 <p><h4><strong>What's new?</strong></h4></p>
 
-<p>Hey guys, follow us on twitter, @GitPulley for updates and news about the impending alpha release! Tweet with #whygitpulley as to why you should be one of the alpha testers and have a chance to try it out early!</p>
+<p>Hey guys, follow us on twitter, <a target="_blank" href="https://twitter.com/GitPulley">@GitPulley</a> for updates and news about the impending alpha release! Tweet with #whygitpulley as to why you should be one of the alpha testers and have a chance to try it out early!</p>
 
 <p><h4><strong>What is Pulley?</strong></h4></p>
 
