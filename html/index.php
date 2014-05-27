@@ -24,12 +24,10 @@
       <h1>Welcome to Pulley</h1>
 <div class="panel panel-default">
         <div class="panel-body">
-        
-        
-        <h1> Thank you HackUCI! <h1>
-        
-        
-        
+<p><h4><strong>What's new?</strong></h4></p>
+
+<p>Hey guys, follow us on twitter, @GitPulley for updates and news about the impending alpha release! Tweet with #whygitpulley as to why you should be one of the alpha testers and have a chance to try it out early!</p>
+
 <p><h4><strong>What is Pulley?</strong></h4></p>
 
 <p>Pushing code to a live server is a cumbersome process, especially when changes happen often. At a hackathon at UCLA, Ian wrote a script that allowed changes to be rapidly deployed on the live server. This weekend, we turned his simple script into a full-blown server version control panel, useful for any small-scale web project. Welcome to Pulley.</p>

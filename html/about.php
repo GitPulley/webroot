@@ -26,6 +26,8 @@
         <div class="panel-body">
           <h3>Purpose</h3>
           <p><b>Pulley</b> was created during HackUCI 2014.</p>
+          <h3>Connect</h3>
+          <p><b>Twitter</b> - <a href="https://twitter.com/GitPulley">@GitPulley</a></p>
         </div>
       </div>
 
